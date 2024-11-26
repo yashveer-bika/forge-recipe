@@ -1,3 +1,17 @@
+# recipe app
+
+Features
+1. Have massive ingredient list
+2. Guide user to page with ingredients. Pick ingredients that you have at home.
+3. Get a recipe(s) that works with my pantry ingredients. Have ability to save them and review them
+
+Pages
+- /build-pantry
+	- guide users to build out pantry using the ingredients table
+- /pantry
+- /recipe
+- /recipe/[id]
+
 # next-forge
 
 **Production-grade Turborepo template for Next.js apps.**
